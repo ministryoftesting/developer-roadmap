@@ -8,3 +8,4 @@ Visit the following resources to learn more:
 - [@article@Accessibility Testing Tutorial (Step By Step Guide)](https://www.softwaretestinghelp.com/what-is-web-accessibility-testing/)
 - [@article@IBM Accessibility Toolkit](https://www.ibm.com/able/)
 - [@feed@Explore top posts about Accessibility](https://app.daily.dev/tags/accessibility?ref=roadmapsh)
+- [@video@What is Accessibility Testing?](https://www.ministryoftesting.com/software-testing-glossary/what-is-accessibility-testing)
