@@ -10,5 +10,6 @@ Visit the following resources to learn more:
 - [@article@Agile Model](https://www.javatpoint.com/software-engineering-agile-model)
 - [@article@Manifesto for Agile Software Development](https://agilemanifesto.org/)
 - [@article@In-Sprint Test Automation On Agile Teams: Yes You Can!](https://www.ministryoftesting.com/articles/in-sprint-test-automation-on-agile-teams-yes-you-can)
+- [@article@Testing Big Data In An Agile Environment](https://www.ministryoftesting.com/articles/testing-big-data-in-an-agile-environment)
 - [@video@Agile Tester Toolkit - Make an Impact](https://www.ministryoftesting.com/talks/agile-tester-toolkit-make-an-impact-julia-pottinger)
 - [@feed@Explore top posts about Agile](https://app.daily.dev/tags/agile?ref=roadmapsh)
