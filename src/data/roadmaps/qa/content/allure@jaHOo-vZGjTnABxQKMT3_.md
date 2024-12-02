@@ -6,3 +6,4 @@ Visit the following resources to learn more:
 
 - [@article@Allure](https://qameta.io/)
 - [@article@Allure Official Docs](https://docs.qameta.io/allure-report/)
+- [@video@Allure TestOps & Allure Report](https://www.ministryoftesting.com/collections/allure-testops-allure-report)
