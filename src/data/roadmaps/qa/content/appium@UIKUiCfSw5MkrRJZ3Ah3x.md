@@ -9,3 +9,4 @@ Visit the following resources to learn more:
 - [@official@Appium Website](https://appium.io/docs/en/2.0/intro/)
 - [@opensource@Appium example tests on Github](https://github.com/appium/appium/tree/1.x/sample-code)
 - [@video@So You Think You Know Appium Because You Know Selenium](https://www.ministryoftesting.com/testbash-sessions/so-you-think-you-know-appium-because-you-know-selenium-wim-selles)
+- [@video@Test Automation Frameworks for Mobile: Appium](https://www.ministryoftesting.com/testbash-sessions/test-automation-frameworks-for-mobile-appium-ios-and-android)
