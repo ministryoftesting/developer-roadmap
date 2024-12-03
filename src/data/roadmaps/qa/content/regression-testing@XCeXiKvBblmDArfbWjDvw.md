@@ -7,3 +7,4 @@ Visit the following resources to learn more:
 - [@article@Regression Testing](https://www.javatpoint.com/regression-testing)
 - [@article@What is Regression Testing with Test Cases](https://www.guru99.com/regression-testing.html)
 - [@feed@Explore top posts about Testing](https://app.daily.dev/tags/testing?ref=roadmapsh)
+- [@feed@The Community's Guide to Regression Testing](https://www.ministryoftesting.com/collections/the-community-s-guide-to-regression-testing)
