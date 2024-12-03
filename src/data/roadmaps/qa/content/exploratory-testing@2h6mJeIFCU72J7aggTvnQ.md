@@ -8,3 +8,4 @@ Visit the following resources to learn more:
 - [@article@Exploratory Testing 3.0](https://www.satisfice.com/blog/archives/1509)
 - [@article@History of Definitions of Exploratory Testing](https://www.satisfice.com/blog/archives/1504)
 - [@feed@Explore top posts about Testing](https://app.daily.dev/tags/testing?ref=roadmapsh)
+- [@feed@The Community's Guide to Exploratory Testing](https://www.ministryoftesting.com/collections/the-community-s-guide-to-exploratory-testing)
