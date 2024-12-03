@@ -18,3 +18,4 @@ Visit the following resources to learn more:
 - [@article@Skills QA needs](https://theqalead.com/careers/quality-assurance-skills/)
 - [@article@How to Think Like a Tester](https://medium.com/@blakenorrish/how-to-think-like-a-tester-7a174ff6aeaf)
 - [@article@ISTQB® Foundation Level Syllabus 2024 - v4.0](https://astqb.org/assets/documents/ISTQB_CTFL_Syllabus-v4.0.pdf)
+- [@feed@Software Testing and QA Skills](https://www.ministryoftesting.com/collections/software-testing-and-qa-skills)
