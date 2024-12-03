@@ -6,3 +6,4 @@ Visit the following resources to learn more:
 
 - [@article@Test Management Process in Software Testing](https://www.guru99.com/test-management-phases-a-complete-guide-for-testing-project.html)
 - [@feed@Explore top posts about Testing](https://app.daily.dev/tags/testing?ref=roadmapsh)
+- [@feed@The Community's Guide to Test Management](https://www.ministryoftesting.com/collections/the-community-s-guide-to-test-management)
