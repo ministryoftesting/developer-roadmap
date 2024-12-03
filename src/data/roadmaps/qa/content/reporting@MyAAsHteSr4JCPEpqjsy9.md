@@ -9,3 +9,4 @@ Visit the following resources to learn more:
 - [@article@How do you write a QA report?](https://www.netguru.com/blog/how-to-write-qa-report)
 - [@article@How To Write QA Test Summary Report? \[13 Easy Steps\]](https://www.qatouch.com/blog/how-to-write-qa-test-summary-report/)
 - [@feed@Explore top posts about QA](https://app.daily.dev/tags/qa?ref=roadmapsh)
+- [@feed@Software Testing and QA Reporting](https://www.ministryoftesting.com/collections/software-testing-and-qa-reporting)
